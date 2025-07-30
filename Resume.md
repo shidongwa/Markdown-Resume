@@ -53,10 +53,6 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- ★★★ 太极拳
+- ★★☆ 太极剑
+- ★★☆ 八卦掌
