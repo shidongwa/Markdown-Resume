@@ -8,12 +8,12 @@
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengsan@163.com
+             zhangsanfeng@163.com
          </span>
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/张三">张三</a>
+             <a href="https://github.com/张三丰">张三丰</a>
          </span>
          ·
          <span>
